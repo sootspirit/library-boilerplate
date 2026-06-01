@@ -1,3 +1,5 @@
+import './accordion.scss';
+
 export class Accordion {
     private container: HTMLElement;
     private items: NodeListOf<HTMLElement>;
